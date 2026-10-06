@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment
+.venv/
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Models / HuggingFace cache
+.cache/
+models/
+
+# Vector database
+chroma/
+chroma_db/
+
+# OS
+.DS_Store
+Thumbs.db
